@@ -14,8 +14,29 @@
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=sdfcwfe&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-sdfcwfe.vercel.app?user=sdfcwfe&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+    <!--<img width="400" src="https://github-readme-streak-stats-sdfcwfe.vercel.app?user=sdfcwfe&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
 </p>
+
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sdfcwfe&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sdfcwfe&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sdfcwfe&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+</td></tr>
+
+<tr><td>
+
+
+
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sdfcwfe&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
@@ -31,10 +52,9 @@
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/Xiaokang2022"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/Xiaokang2022"><img src="https://img.shields.io/badge/Gitee-Xiaokang2022-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e6%88%91%e5%b0%b1%e6%98%af%e5%b0%8f%e5%ba%b7-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
+    <a href="https://github.com/sdfcwfe"><img src="https://img.shields.io/badge/GitHub-sdfcwfe-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://space.bilibili.com/399875414?spm_id_from=333.1007.0.0 "><img src="https://img.shields.io/badge/Bilibili-混净物-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/sdfcwfe"><img src="https://komarev.com/ghpvc/?username=Xiaokang2022&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
