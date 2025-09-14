@@ -60,8 +60,6 @@
     <a href="https://github.com/sdfcwfe"><img src="https://img.shields.io/badge/GitHub-sdfcwfe-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://space.bilibili.com/399875414?spm_id_from=333.1007.0.0 "><img src="https://img.shields.io/badge/Bilibili-混净物-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/sdfcwfe"><img src="https://komarev.com/ghpvc/?username=Xiaokang2022&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
