@@ -33,7 +33,9 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2050%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -82,6 +84,28 @@ latex                    30 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 Windows                  30 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 mins (93.6%)
+
+✍️ 1,228 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,115,718 Input Tokens, 14,959 Output Tokens
+
+💵 $3.57 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 6 AI Prompts
+
+Deepseek                 1,322 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 21 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **我最常使用 C#** 
 
 ```text
@@ -95,7 +119,7 @@ JavaScript               1 repo              ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 27/07/2026 01:50:56 UTC
+ Last Updated on 28/07/2026 01:25:52 UTC
 <!--END_SECTION:waka-->
 
 
