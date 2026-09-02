@@ -33,9 +33,9 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -68,40 +68,40 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TeX                      24 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   91.85 % 
-JSON                     2 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.15 % 
+TeX                      31 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.47 % 
+JSON                     2 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.53 % 
 
 🔥 编辑器: 
-VS Code                  26 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  33 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🐱‍💻 项目: 
-work                     13 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.87 % 
-math                     10 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.98 % 
-latex                    2 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.15 % 
+work                     20 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.45 % 
+math                     10 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.03 % 
+latex                    2 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.53 % 
 
 💻 操作系统: 
-Windows                  26 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  33 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (74.91%)
+⏱ AI Coding Time: 26 mins (79.9%)
 
 ✍️ 743 lines written by AI, 18 lines written by hand (97.63% AI-written)
 
-🔤 2,789 Input Tokens, 8,645 Output Tokens
+🔤 3,213 Input Tokens, 11,681 Output Tokens
 
-💵 $1.09 Estimated AI Cost This Week
+💵 $1.48 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 7 AI Prompts
+🧠 3 AI Sessions, 7 AI Prompts
 
 Deepseek                 743 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.63% of written lines came from AI
 📝 Concise Prompter — average 141 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 2.37% of changed lines were hand-edited
 ```
 
@@ -118,7 +118,7 @@ JavaScript               1 repo              ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 01/09/2026 02:28:01 UTC
+ Last Updated on 02/09/2026 01:48:55 UTC
 <!--END_SECTION:waka-->
 
 
